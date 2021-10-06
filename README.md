@@ -1,2 +1,3 @@
 # hello-world-prac
-This is my practice repository.
+
+Hi everyone! I like html, css and javascript.
